@@ -1,16 +1,9 @@
 zfs-on-linux-box
 ================
 
-pre-setup
----------
+Getting Started
+---------------
 
 ```
-$ make
-```
-
-build testing box
------------------
-
-```
-$ make test
+$ make box
 ```
