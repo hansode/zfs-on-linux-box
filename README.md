@@ -7,5 +7,6 @@ Getting Started
 ---------------
 
 ```
+$ make
 $ make box
 ```
